@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Azeret Mono', monospace;
+}
+
+main {
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    height: 3rem;
+    padding-left: 1rem;
+}
+
+button {
+    padding: 1rem 3rem;
+    margin-left: 1rem;
+    font-family: 'Azeret Mono', monospace;
+}
